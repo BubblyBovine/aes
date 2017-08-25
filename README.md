@@ -8,6 +8,15 @@ It currently supports ECB mode AES-128 encryption and decryption, verified with 
 Tested with the **GCC 7.1.0** and **Clang 4.0.1** compilers on **x86_64 GNU/Linux**.
 
 
+Dependencies
+------------
+
+Toolchain:
+
+- C99 compiler
+- [Meson](http://mesonbuild.com)
+
+
 Build instructions
 ------------------
 
